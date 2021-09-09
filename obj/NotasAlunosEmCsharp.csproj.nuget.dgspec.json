@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Documents\\Decola Tech\\Projetos\\Acompanhando Aulas\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp.csproj": {}
+    "C:\\Users\\gabri\\Documents\\Decola Tech\\Projetos\\Acompanhando Aulas\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Documents\\Decola Tech\\Projetos\\Acompanhando Aulas\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp.csproj": {
+    "C:\\Users\\gabri\\Documents\\Decola Tech\\Projetos\\Acompanhando Aulas\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Documents\\Decola Tech\\Projetos\\Acompanhando Aulas\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Documents\\Decola Tech\\Projetos\\Acompanhando Aulas\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp.csproj",
         "projectName": "NotasAlunosEmCsharp",
-        "projectPath": "C:\\Users\\gabri\\Documents\\Decola Tech\\Projetos\\Acompanhando Aulas\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp.csproj",
+        "projectPath": "C:\\Users\\gabri\\Documents\\Decola Tech\\Projetos\\Acompanhando Aulas\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Documents\\Decola Tech\\Projetos\\Acompanhando Aulas\\NotasAlunosEmCsharp\\NotasAlunosEmCsharp\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Documents\\Decola Tech\\Projetos\\Acompanhando Aulas\\NotasAlunosEmCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[3.9.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
