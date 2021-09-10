@@ -11,3 +11,5 @@ Pensando na acessibildade de usuários com deficiência visual, tentei implement
 e média geral.
 Essa funcionalidade não está 100%, pois não tenho conhecimento suficiente para desenvolver um sintetizador de voz. Então, para os nomes, por exemplo, adicionei várias opções já
 gravadas. Assim, o programa consegue retornar uma quantidade suficiente de nomes por voz, para fins de demonstração.
+
+Link do programa em funcionamento: https://www.youtube.com/watch?v=48IIZ2VRaqE
